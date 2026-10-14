@@ -1,0 +1,12 @@
+{
+  "name": "문장 — 나만의 서재",
+  "short_name": "문장",
+  "description": "오프라인에서도 이어 읽는 미니멀 독서 공간",
+  "lang": "ko-KR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f6f0",
+  "theme_color": "#f5f1e8",
+  "icons": []
+}
